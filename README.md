@@ -13,6 +13,7 @@ O material será subdividido em três níveis.
 ## Abreviações, acrônimos e siglas
 
 - API - Application Programming Interface (interface de programação de aplicativos)
+- AWS - Amazon Web Services
 - BD - Banco de dados
 - BDD - Behaviour Driven Development (desenvolvimento orientado a comportamento)
 - CC - Clean Code (código limpo)
@@ -23,6 +24,7 @@ O material será subdividido em três níveis.
 - Dev -  Desenvolvedor
 - HTML - Hypertext Markup Language (linguagem de marcação de hipertexto)
 - IA - Intelligent Artificial (inteligência artificial)
+- GCP - Google Cloud Plataform
 - JS - JavaScript 
 - LESS - Leaner Style Sheets (linguagem de folhas de estilo dinâmica)
 - Lib - Library (biblioteca)
@@ -43,7 +45,10 @@ O material será subdividido em três níveis.
 
 - Algoritmo - é uma linguagem formal que especifica um conjunto de instruções e regras utilizadas para gerar programas (softwares). Esse software pode ser desenvolvido para rodar via Desktop, Web e via Mobile (aplicativos).
 
+- Amazon Web Services - plataforma de serviços de computação em nuvem, que formam uma plataforma de computação na nuvem oferecida pela Amazon.com
   
+- Azure - plataforma destinada à execução de aplicativos e serviços, baseada nos conceitos da computação em nuvem oferecida pela Microsoft
+
 - Back-end - é a camada de programação que fica nos bastidores, no banco de dados.
 
 - Biblioteca - é um conjunto de códigos, funções com inúmeros recursos onde você vai carregar só aquele que te interessa/precisa. É uma ferramenta para o seu projeto. Você pode utilizar várias bibliotecas para resolver problemas pontuais no seu código.
@@ -55,13 +60,14 @@ O material será subdividido em três níveis.
 - Clean Code - é um estilo de desenvolvimento que tem por foco a facilidade para escrever, ler e manter o código.
   
 - Compilador - é um programa de sistema que traduz um programa descrito em uma linguagem de alto nível para um programa equivalente em código de máquina para um processador.
-  
-  - Containers - é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro.
+
+- Computação em nuvem ou Cloud Computing - é a entrega de recursos de TI sob demanda por meio da Internet com definição de preço de pagamento conforme o uso. Em vez de comprar, ter e manter datacenters e servidores físicos, você pode acessar serviços de tecnologia, como capacidade computacional, armazenamento e bancos de dados, conforme a necessidade, usando um provedor de nuvem
+
+- Containers - é uma unidade padrão de software que empacota o código e todas as suas dependências para que o aplicativo seja executado de maneira rápida e confiável de um ambiente de computação para outro.
 
 - Deploy - implantar, disponibilizar para uso.
   
 - DevOps - cultura de automatização de processos de infra e desenvolvimento.
-
   
 - Design Pattern - são soluções generalistas para problemas recorrentes durante o desenvolvimento de um software. 
 
@@ -82,6 +88,8 @@ O material será subdividido em três níveis.
 - Gitlab - é um gerenciador de repositório de software baseado em git, com suporte a Wiki, gerenciamento de tarefas e CI/CD. GitLab é similar ao GitHub, mas o GitLab permite que os desenvolvedores armazenem o código em seus próprios servidores, ao invés de servidores de terceiros.
 
 - Gitflow -  é um design de fluxo de trabalho Git. 
+
+- Google Cloud Plataform - suíte de computação em nuvem oferecida pelo Google, funcionando na mesma infraestrutura que a empresa usa para seus produtos dirigidos aos usuários, dentre eles o Buscador Google e o Youtube. Juntamente com um conjunto de ferramentas de gerenciamento modulares, fornecem uma série de serviços incluindo, computação, armazenamento de dados, análise de dados e aprendizagem de máquina
 
 - Linux - é um termo popularmente empregado para se referir a sistemas operativos ou sistemas operacionais que utilizam o Kernel Linux
   
